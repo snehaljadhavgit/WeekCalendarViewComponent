@@ -1,0 +1,14 @@
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.exe
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.pdb
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.dll
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.pdb
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.exe
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.pdb

@@ -1,0 +1,3 @@
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.app:/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/WeekCalendarViewComponent.iOS.exe
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.app:/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/bin/iPhoneSimulator/Debug/WeekCalendarViewComponent.iOS.app:/Users/sjadhav/Projects/WeekCalendarViewComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll

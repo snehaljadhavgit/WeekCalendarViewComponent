@@ -1,0 +1,5 @@
+/Users/sjadhav/Projects/WeekCalendarViewComponent/WeekCalendarViewComponent/bin/Debug/WeekCalendarViewComponent.dll
+/Users/sjadhav/Projects/WeekCalendarViewComponent/WeekCalendarViewComponent/bin/Debug/WeekCalendarViewComponent.pdb
+/Users/sjadhav/Projects/WeekCalendarViewComponent/WeekCalendarViewComponent/obj/Debug/WeekCalendarViewComponent.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/WeekCalendarViewComponent/WeekCalendarViewComponent/obj/Debug/WeekCalendarViewComponent.dll
+/Users/sjadhav/Projects/WeekCalendarViewComponent/WeekCalendarViewComponent/obj/Debug/WeekCalendarViewComponent.pdb

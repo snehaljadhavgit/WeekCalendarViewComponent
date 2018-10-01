@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4FA1E603-8382-49B2-A972-89640D4298AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="21" Column="41" />
+      <File FileName="Droid/Resources/menu/action_menu.xml" Line="12" Column="30" />
+      <File FileName="Droid/PersianCalendar.cs" Line="127" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeekCalendarViewComponent" expanded="True">
+            <Node name="WeekCalendarViewComponent.Droid" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeekCalendarViewComponent.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeekCalendarViewComponent.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C23ADB16-6E9A-46F9-919F-4E889EA4CAC0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.WeekCalendarViewComponent.iOS>
+</Properties>
